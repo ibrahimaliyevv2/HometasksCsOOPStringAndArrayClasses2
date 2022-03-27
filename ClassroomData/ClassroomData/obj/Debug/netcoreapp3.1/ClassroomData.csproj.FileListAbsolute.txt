@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/bin/Debug/netcoreapp3.1/ClassroomData.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/bin/Debug/netcoreapp3.1/ClassroomData.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/bin/Debug/netcoreapp3.1/ClassroomData.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/bin/Debug/netcoreapp3.1/ClassroomData.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/bin/Debug/netcoreapp3.1/ClassroomData.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsOOPStringAndArrayClasses2/ClassroomData/ClassroomData/obj/Debug/netcoreapp3.1/ClassroomData.genruntimeconfig.cache
